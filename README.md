@@ -25,3 +25,4 @@ Parts used:
 - USB cable (preferably with internal usb 2.0 connector to connect it directly to motherbaord header)
 
 Schematics:
+![Schematics](schematics.jpg)
