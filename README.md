@@ -9,8 +9,8 @@ i decided to expand this project a bit, it offers the following functionalities:
 - 3 temperature sensors
 - OLED display that presents data from all sensors
 - alarm activated if any of sensor values goes beyond given range, all 4 sensor values have independent screen blinking function that indicates which value is out of range.
-- (To be Added) button that switch between display being turned off and two brightness levels (short press) and can activate/deactivate alarm (long press)
-- (Work in progress) simple serial communication that allows to controll button functions and get sensor readings. You can use it for example If You want to write an app to controll it/gather data/display graphs etc.
+- Button that switch between display being turned off and two brightness levels (short press) and can activate/deactivate alarm (long press)
+- Simple serial communication that allows to controll button functions and get sensor readings. You can use it for example If You want to write an app to controll it/gather data/display graphs etc.
  
 
 Parts used:
